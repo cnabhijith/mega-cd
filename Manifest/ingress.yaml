@@ -23,4 +23,4 @@ spec:
   tls:
     - hosts:
         - www.isonxperiences.co.in
-      secretName: shackverse-co-tls
+      secretName: isonxperiences-co-lts
